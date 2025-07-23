@@ -101,7 +101,7 @@ It also provides an API to calculate the **best applicable discount** for a give
   ```bash
     curl -X POST http://localhost:8080/offer \
     -H "Content-Type: application/json" \
-    -d @flipkart-sample.json
+    -d @sample1.json
     
    ```
 
@@ -117,7 +117,7 @@ It also provides an API to calculate the **best applicable discount** for a give
 
 **Example:**
   ```bash 
-            curl "http://localhost:8080/offer/highest-discount?amountToPay=10000&bankName=HDFC&paymentInstrument=CREDIT"
+    curl "http://localhost:8080/highest-discount?amountToPay=10000&bankName=HDFC&paymentInstrument=CREDIT"
   ```
 
 **Sample Response**
