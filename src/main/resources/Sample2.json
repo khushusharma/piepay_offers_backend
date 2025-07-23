@@ -1,0 +1,135 @@
+{
+  "title": "Partner offers",
+  "offers": [
+    {
+      "adjustment_type": "INSTANT_DISCOUNT",
+      "adjustment_id": "FPO250717182707WJBDJ",
+      "summary": "Additional ₹1500 Off On Credit and Debit Card Transactions",
+      "contributors": {
+        "payment_instrument": [
+          "CREDIT",
+          "CREDIT",
+          "EMI_OPTIONS"
+        ],
+        "banks": [
+          "AXIS",
+          "HDFC",
+          "ICICI",
+          "INDUSIND",
+          "KOTAK",
+          "SBI",
+          "PNB",
+          "FEDERALBANK",
+          "DBS",
+          "STANC",
+          "YESBANK",
+          "HSBC",
+          "RBL",
+          "AMEX",
+          "IDFC",
+          "BOBARODA"
+        ]
+      }
+    },
+    {
+      "adjustment_type": "INSTANT_DISCOUNT",
+      "adjustment_id": "FPO250717174747AJZCP",
+      "summary": "₹526 Off On Flipkart Axis Bank Credit And Debit Card Non EMI Transactions",
+      "contributors": {
+        "payment_instrument": [
+          "CREDIT",
+          "CREDIT"
+        ],
+        "banks": [
+          "FLIPKARTAXISBANK"
+        ]
+      }
+    },
+    {
+      "adjustment_type": "CASHBACK_ON_CARD",
+      "adjustment_id": "FPO250626172916JI4VZ",
+      "summary": "Flat ₹10 Cashback on Paytm UPI Trxns. Min Order Value ₹500. Valid once per Paytm account",
+      "contributors": {
+        "payment_instrument": [
+          "UPI_COLLECT",
+          "UPI_INTENT"
+        ],
+        "banks": []
+      }
+    },
+    {
+      "adjustment_type": "INSTANT_DISCOUNT",
+      "adjustment_id": "FPO250630141846FNI8Y",
+      "summary": "No Cost EMI* on All Bank Cardless EMI",
+      "contributors": {
+        "payment_instrument": [
+          "EMI_OPTIONS"
+        ],
+        "banks": []
+      }
+    },
+    {
+      "adjustment_type": "INSTANT_DISCOUNT",
+      "adjustment_id": "FPO250630124344C379G",
+      "summary": "No Cost EMI on Credit card and Debit card transaction",
+      "contributors": {
+        "payment_instrument": [
+          "EMI_OPTIONS"
+        ],
+        "banks": []
+      }
+    },
+    {
+      "adjustment_type": "CASHBACK_ON_CARD",
+      "adjustment_id": "FPO250619134128USHPF",
+      "summary": "5% cashback on Flipkart Axis Bank Credit Card upto ₹4,000 per statement quarter",
+      "contributors": {
+        "payment_instrument": [
+          "CREDIT"
+        ],
+        "banks": [
+          "FLIPKARTAXISBANK"
+        ]
+      }
+    },
+    {
+      "adjustment_type": "CASHBACK_ON_CARD",
+      "adjustment_id": "FPO250619135528ZQIZW",
+      "summary": "5% cashback on Axis Bank Flipkart Debit Card up to ₹750",
+      "contributors": {
+        "payment_instrument": [
+          "CREDIT"
+        ],
+        "banks": [
+          "FLIPKARTAXISBANK"
+        ]
+      }
+    },
+    {
+      "adjustment_type": "INSTANT_DISCOUNT",
+      "adjustment_id": "FPO2506301250143KBYX",
+      "summary": "No Cost EMI on Pay Later",
+      "contributors": {
+        "payment_instrument": [
+          "EMI_OPTIONS"
+        ],
+        "banks": [
+          "IDFC"
+        ]
+      }
+    },
+    {
+      "adjustment_type": "INSTANT_DISCOUNT",
+      "adjustment_id": "FPO250630125526POPMA",
+      "summary": "No Cost EMI on Bajaj Finserv",
+      "contributors": {
+        "payment_instrument": [
+          "EMI_OPTIONS"
+        ],
+        "banks": [
+          "BAJAJFINSERV"
+        ]
+      }
+    }
+  ]
+}

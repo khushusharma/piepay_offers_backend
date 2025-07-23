@@ -1,0 +1,41 @@
+# ------------------------
+# Maven / Java / Spring Boot
+# ------------------------
+
+# Maven target folder (compiled classes, jars)
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# IDE files (IntelliJ IDEA, VS Code)
+.idea/
+*.iml
+*.ipr
+*.iws
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Ignore generated files by build tools
+*.class
+
+# Ignore application configuration
+src/main/resources/application.properties
+
+# Ignore environment files
+.env
+
+# Ignore backups or temp files
+*.swp
+*.bak
+*~
+
+# Ignore node_modules if you ever add frontend here
+node_modules/
+
+# Ignore coverage files (e.g., Jacoco)
+coverage/
